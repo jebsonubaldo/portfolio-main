@@ -1,18 +1,16 @@
 <h1 align="center">
   <div align="center">
-    <img alt="dnachavez (Dan Chavez) logo" src="./public/favicon.svg" height="150px" width="auto"/>
+    <img alt="jebsonubaldo (Jebson Ubaldo) logo" src="./public/favicon.svg" height="150px" width="auto"/>
   </div>
   <br/>
-  Portfolio - Dan Chavez
+  Portfolio - Jebson Ubaldo
 </h1>
 <p align="center">
     My personal portfolio built with Astro.
     <br />
     Cloned from devenapuros's <a href="https://github.com/devenapuros/portfolio">portfolio</a> project.
     <br />
-    <a href="https://dnachavez.ph">Go to website</a>&nbsp;
-    ·
-    &nbsp;<a href="https://github.com/dnachavez/portfolio/issues">Report Bug</a>
+
   </p>
 <br/>
 

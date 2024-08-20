@@ -7,13 +7,12 @@
         "jobTime": "August 2023 - Present",
         "jobCompany": "airisX Limited Inc.",
         "jobCompanySite": "https://airisx.com/",
-        "jobDescription": "I lead the development of diverse projects, dedicating myself to creating platforms that meet client needs and transform their concepts into tangible results.",
+        "jobDescription": "Assist in the development and maintenance of websites, ensuring functionality, responsiveness, and user-friendly design.",
         "jobActivities": [
-            "User interface design with HTML, CSS, and JavaScript.",
-            "Back-end infrastructure development with PHP.",
-            "API development and management with PHP.",
-            "RESTful API consumption with JavaScript.",
-            "Database design and implementation with MySQL."
+            "Created and deployed 120 client landing pages tailored to client requirements, utilizing HTML, CSS, Bootstrap CSS, and JavaScript.",
+            "Designed landing page layouts and prototypes using Figma, ensuring cohesive visual aesthetics and user interface consistency.",
+            "Integrated websites with third-party tools such as MailChimp and Pathfactory, resulting in a 15% improvement in functionality.",
+            "Configured Salesforce workflows and automation processes, resulting in a 30% increase in efficiency for sales and marketing team."
         ],
         "jobTechnologies": [
             {
@@ -47,6 +46,50 @@
         ]
     },
     {
+        "id": "codebility",
+        "jobPicture": "codebility.jpg",
+        "jobColor": "#006fff",
+        "jobTitle": "Web Developer",
+        "jobTime": "July 2024 - Present",
+        "jobCompany": "Codebility",
+        "jobCompanySite": "https://codebility.tech/",
+        "jobDescription": "Design, build, and maintain dynamic and responsive websites, implementing front-end solutions to enhance user experience and performance.",
+        "jobActivities": [
+            "User interface design with HTML, CSS, and JavaScript.",
+            "RESTful API consumption with JavaScript."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "tailwind"
+            },
+            {
+                "name": "ReactJS",
+                "icon": "react"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            }
+        ]
+    },
+    {
         "id": "village88",
         "jobPicture": "village88.jpg",
         "jobColor": "#006fff",
@@ -54,7 +97,7 @@
         "jobTime": "January 2024 - April 2024",
         "jobCompany": "Village88 Inc.",
         "jobCompanySite": "https://village88.com/",
-        "jobDescription": "I lead the development of diverse projects, dedicating myself to creating platforms that meet client needs and transform their concepts into tangible results.",
+        "jobDescription": "Develop and manage both front-end and back-end components of web applications, ensuring seamless integration, functionality, and user experience across all platforms.",
         "jobActivities": [
             "User interface design with HTML, CSS, and JavaScript.",
             "Back-end infrastructure development with PHP.",
@@ -133,13 +176,11 @@
         "jobTime": "March 2023 - June 2023",
         "jobCompany": "ROC.PH Digital Marketing Services",
         "jobCompanySite": "https://roc.ph/",
-        "jobDescription": "I lead the development of diverse projects, dedicating myself to creating platforms that meet client needs and transform their concepts into tangible results.",
+        "jobDescription": "Assist in leading a team of front-end developers while contributing to the design and implementation of responsive and visually appealing user interfaces.",
         "jobActivities": [
-            "User interface design with HTML, CSS, and JavaScript.",
-            "Back-end infrastructure development with PHP.",
-            "API development and management with PHP.",
-            "RESTful API consumption with JavaScript.",
-            "Database design and implementation with MySQL."
+            "Contribute to development of websites using WordPress while providing leadership and support to team.",
+            "Contributed to digital marketing strategies, yielding a 25% website traffic increase in 2 months.",
+            "Executed SEO best practices, resulting in 15% organic traffic surge and improved search visibility."
         ],
         "jobTechnologies": [
             {

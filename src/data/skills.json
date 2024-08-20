@@ -84,18 +84,6 @@
         "skillPicture": "wordpress.svg"
     },
     {
-        "skillName": "AWS",
-        "skillPicture": "aws.svg"
-    },
-    {
-        "skillName": "Styled Components",
-        "skillPicture": "styledcomponents.svg"
-    },
-    {
-        "skillName": "Chrome DevTools",
-        "skillPicture": "chrome.svg"
-    },
-    {
         "skillName": "NPM",
         "skillPicture": "npm.svg"
     },
@@ -110,14 +98,6 @@
     {
         "skillName": "Heroku",
         "skillPicture": "heroku.svg"
-    },
-    {
-        "skillName": "Astro",
-        "skillPicture": "astro.svg"
-    },
-    {
-        "skillName": "cPanel",
-        "skillPicture": "cpanel.svg"
     },
     {
         "skillName": "Trello",
