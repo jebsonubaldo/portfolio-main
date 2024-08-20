@@ -1,0 +1,171 @@
+[
+    {
+        "id": "airisx",
+        "jobPicture": "airisx.png",
+        "jobColor": "#006fff",
+        "jobTitle": "Junior Web Developer",
+        "jobTime": "August 2023 - Present",
+        "jobCompany": "airisX Limited Inc.",
+        "jobCompanySite": "https://airisx.com/",
+        "jobDescription": "I lead the development of diverse projects, dedicating myself to creating platforms that meet client needs and transform their concepts into tangible results.",
+        "jobActivities": [
+            "User interface design with HTML, CSS, and JavaScript.",
+            "Back-end infrastructure development with PHP.",
+            "API development and management with PHP.",
+            "RESTful API consumption with JavaScript.",
+            "Database design and implementation with MySQL."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            },
+            {
+                "name": "Mailchimp",
+                "icon": "mailchimp"
+            },
+            {
+                "name": "Salesforce",
+                "icon": "salesforce"
+            }
+        ]
+    },
+    {
+        "id": "village88",
+        "jobPicture": "village88.jpg",
+        "jobColor": "#006fff",
+        "jobTitle": "Full Stack Developer Trainee",
+        "jobTime": "January 2024 - April 2024",
+        "jobCompany": "Village88 Inc.",
+        "jobCompanySite": "https://village88.com/",
+        "jobDescription": "I lead the development of diverse projects, dedicating myself to creating platforms that meet client needs and transform their concepts into tangible results.",
+        "jobActivities": [
+            "User interface design with HTML, CSS, and JavaScript.",
+            "Back-end infrastructure development with PHP.",
+            "API development and management with PHP.",
+            "RESTful API consumption with JavaScript.",
+            "Database design and implementation with MySQL."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "bootstrap"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "tailwind"
+            },
+            {
+                "name": "Git",
+                "icon": "github"
+            },
+            {
+                "name": "jQuery",
+                "icon": "jquery"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "CodeIgniter",
+                "icon": "codeigniter"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "ReactJS",
+                "icon": "react"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            },
+            {
+                "name": "WordPress",
+                "icon": "wordpress"
+            },
+            {
+                "name": "Trello",
+                "icon": "trello"
+            }
+        ]
+    },
+    {
+        "id": "rocph",
+        "jobPicture": "rocph.png",
+        "jobColor": "#006fff",
+        "jobTitle": "Front-End Web Developer Junior Assistant Team Leader Intern",
+        "jobTime": "March 2023 - June 2023",
+        "jobCompany": "ROC.PH Digital Marketing Services",
+        "jobCompanySite": "https://roc.ph/",
+        "jobDescription": "I lead the development of diverse projects, dedicating myself to creating platforms that meet client needs and transform their concepts into tangible results.",
+        "jobActivities": [
+            "User interface design with HTML, CSS, and JavaScript.",
+            "Back-end infrastructure development with PHP.",
+            "API development and management with PHP.",
+            "RESTful API consumption with JavaScript.",
+            "Database design and implementation with MySQL."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            },
+            {
+                "name": "WordPress",
+                "icon": "wordpress"
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "id": "jobi",
+        "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png", "s7.png", "s8.png", "s9.png", "s10.png"],
+        "projectRepo": "https://github.com/jebsonubaldo/jobportal-capstone",
+        "projectSite": "https://jobi-6e0b4dda90ab.herokuapp.com/",
+        "projectTitle": "Jobi",
+        "projectSlogan": "Job Portal Website",
+        "projectDescription": "Jobi: Job Portal Website is an ambitious initiative dedicated to revolutionizing the job search process. This dynamic platform will offer job seekers a user-friendly interface to browse, search, and apply for diverse employment opportunities across industries and regions. With advanced filtering options and personalized job recommendations, Jobi aims to connect talented individuals with their ideal career paths while providing employers with a seamless recruitment experience.",
+
+        "projectTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "Javascript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "tailwind"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "Express.js",
+                "icon": "express"
+            },
+            {
+                "name": "Alpine.js",
+                "icon": "alpine"
+            }
+        ]
+    },
+    {
+        "id": "silid-booklatan",
+        "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png", "s7.png"],
+        "projectRepo": "https://github.com/jebsonubaldo/Silid-Booklatan",
+        "projectSite": "https://jebsonubaldo.me/Silid-Booklatan/",
+        "projectTitle": "Silid-Booklatan",
+        "projectSlogan": "Villasis Municipal Library MIS",
+        "projectDescription": "Silid-Booklatan: Villasis Municipal Library Management Information System is an innovative project aimed at modernizing the operations of the Villasis Municipal Library. This comprehensive system will streamline cataloging, lending, and membership management, enhancing accessibility and efficiency for patrons and staff alike. Through digitization and intuitive user interfaces, Silid-Booklatan will transform the library experience, fostering a culture of learning and knowledge dissemination within the community.",
+
+        "projectTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "Javascript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "bootstrap"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "Laravel",
+                "icon": "laravel"
+            }
+        ]
+    }
+]

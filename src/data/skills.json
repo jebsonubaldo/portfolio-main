@@ -1,0 +1,130 @@
+[
+    {
+        "skillName": "HTML",
+        "skillPicture": "html.svg"
+    },
+    {
+        "skillName": "CSS",
+        "skillPicture": "css.svg"
+    },
+    {
+        "skillName": "JavaScript",
+        "skillPicture": "javascript.svg"
+    },
+    {
+        "skillName": "Bootstrap",
+        "skillPicture": "bootstrap.svg"
+    },
+    {
+        "skillName": "Tailwind",
+        "skillPicture": "tailwind.svg"
+    },
+    {
+        "skillName": "Git",
+        "skillPicture": "git.svg"
+    },
+    {
+        "skillName": "GitHub",
+        "skillPicture": "github.svg"
+    },
+    {
+        "skillName": "Bitbucket",
+        "skillPicture": "bitbucket.svg"
+    },
+    {
+        "skillName": "jQuery",
+        "skillPicture": "jquery.svg"
+    },
+    {
+        "skillName": "MySQL",
+        "skillPicture": "mysql.svg"
+    },
+    {
+        "skillName": "PHP",
+        "skillPicture": "php.svg"
+    },
+    {
+        "skillName": "CodeIgniter",
+        "skillPicture": "codeigniter.svg"
+    },
+    {
+        "skillName": "Laravel",
+        "skillPicture": "laravel.svg"
+    },
+    {
+        "skillName": "Node.js",
+        "skillPicture": "node.svg"
+    },
+    {
+        "skillName": "Next.js",
+        "skillPicture": "nextjs.svg"
+    },
+    {
+        "skillName": "ReactJS",
+        "skillPicture": "react.svg"
+    },
+    {
+        "skillName": "Figma",
+        "skillPicture": "figma.svg"
+    },
+    {
+        "skillName": "Adobe XD",
+        "skillPicture": "xd.svg"
+    },
+    {
+        "skillName": "Canva",
+        "skillPicture": "canva.svg"
+    },
+    {
+        "skillName": "VS Code",
+        "skillPicture": "vscode.svg"
+    },
+    {
+        "skillName": "WordPress",
+        "skillPicture": "wordpress.svg"
+    },
+    {
+        "skillName": "AWS",
+        "skillPicture": "aws.svg"
+    },
+    {
+        "skillName": "Styled Components",
+        "skillPicture": "styledcomponents.svg"
+    },
+    {
+        "skillName": "Chrome DevTools",
+        "skillPicture": "chrome.svg"
+    },
+    {
+        "skillName": "NPM",
+        "skillPicture": "npm.svg"
+    },
+    {
+        "skillName": "Netlify",
+        "skillPicture": "netlify.svg"
+    },
+    {
+        "skillName": "Vercel",
+        "skillPicture": "vercel.svg"
+    },
+    {
+        "skillName": "Heroku",
+        "skillPicture": "heroku.svg"
+    },
+    {
+        "skillName": "Astro",
+        "skillPicture": "astro.svg"
+    },
+    {
+        "skillName": "cPanel",
+        "skillPicture": "cpanel.svg"
+    },
+    {
+        "skillName": "Trello",
+        "skillPicture": "trello.svg"
+    },
+    {
+        "skillName": "Asana",
+        "skillPicture": "asana.svg"
+    }
+]
