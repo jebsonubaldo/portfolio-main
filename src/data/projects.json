@@ -1,5 +1,61 @@
 [
     {
+        "id": "nightkey",
+        "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png", "s7.png"],
+        "projectSite": "https://www.nightkey.com.au/",
+        "projectTitle": "Nightkey",
+        "projectSlogan": "Identity and Patrron Verification System",
+        "projectDescription": "Nightkey Website is an innovative platform designed to redefine the nightlife and event discovery experience. This dynamic website will provide users with an intuitive interface to explore, search, and engage with events, venues, and nightlife activities in their area. With smart filtering options and personalized recommendations, Nightkey aims to connect people with unforgettable experiences while helping event organizers and venues reach the right audience effortlessly.",
+
+        "projectTechnologies": [
+            {
+                "name": "WordPress",
+                "icon": ""
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            }
+        ]
+    },
+    {
+        "id": "mvec",
+        "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png"],
+        "projectSite": "https://www.mvec.org.au/",
+        "projectTitle": "Motor Vehicle Enthusiasts Club of the NT Inc.",
+        "projectSlogan": "Community Website (Club & Membership Platform)",
+        "projectDescription": "Motor Vehicle Enthusiasts Club of the NT Inc. is a community-focused website designed to connect car enthusiasts, showcase automotive events, and promote club activities. This platform provides members and visitors with an easy way to explore upcoming events, view vehicle showcases, and stay updated with the latest club news. With a structured and user-friendly interface, it fosters engagement among members while supporting the growth of a passionate automotive community.",
+        "projectTechnologies": [
+            {
+                "name": "Wix",
+                "icon": "wix"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            }
+        ]
+    },
+    {
+        "id": "vircon-360",
+        "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png"],
+        "projectSite": "https://www.vircon360.com/",
+        "projectTitle": "Vircon360",
+        "projectSlogan": "Business Website",
+        "projectDescription": "Vircon360 is a professional business website designed to showcase services, solutions, and company expertise in a modern and engaging way. This platform provides visitors with clear insights into the company’s offerings, projects, and capabilities through a clean, user-friendly interface. With strong visual presentation, responsive design, and strategic content structure, Vircon360 aims to build credibility, attract potential clients, and support business growth in a competitive digital landscape.",
+
+        "projectTechnologies": [
+            {
+                "name": "Wix",
+                "icon": "wix"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            }
+        ]
+    },
+    {
         "id": "jobi",
         "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png", "s7.png", "s8.png", "s9.png", "s10.png"],
         "projectSite": "https://jobi-8174.onrender.com/",
@@ -35,6 +91,33 @@
             {
                 "name": "Alpine.js",
                 "icon": "alpine"
+            }
+        ]
+    },
+    {
+        "id": "urban-shop",
+        "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png", "s7.png"],
+        "projectSite": "https://codebility-fourth-project.vercel.app/",
+        "projectTitle": "Urban Shop",
+        "projectSlogan": "eCommerce Website",
+        "projectDescription": "Urban Shop is a modern eCommerce website designed to deliver a seamless and engaging online shopping experience. This dynamic platform allows users to browse, search, and purchase a wide range of products through a clean and user-friendly interface. With intuitive navigation, secure checkout, and responsive design, Urban Shop ensures convenience for customers across all devices. It also empowers business owners with efficient product management and order tracking, creating a smooth and scalable digital retail solution.",
+
+        "projectTechnologies": [
+            {
+                "name": "ReactJS",
+                "icon": "react"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "tailwind"
+            },
+            {
+                "name": "Vercel",
+                "icon": "vercel"
             }
         ]
     },
