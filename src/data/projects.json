@@ -4,13 +4,13 @@
         "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png", "s7.png"],
         "projectSite": "https://www.nightkey.com.au/",
         "projectTitle": "Nightkey",
-        "projectSlogan": "Identity and Patrron Verification System",
+        "projectSlogan": "Identity and Patron Verification System",
         "projectDescription": "Nightkey Website is an innovative platform designed to redefine the nightlife and event discovery experience. This dynamic website will provide users with an intuitive interface to explore, search, and engage with events, venues, and nightlife activities in their area. With smart filtering options and personalized recommendations, Nightkey aims to connect people with unforgettable experiences while helping event organizers and venues reach the right audience effortlessly.",
 
         "projectTechnologies": [
             {
                 "name": "WordPress",
-                "icon": ""
+                "icon": "wordpress"
             },
             {
                 "name": "Figma",
