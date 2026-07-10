@@ -194,6 +194,7 @@
     {
         "id": "arkitektur",
         "carouselImages": ["s1.png", "s2.png", "s3.png", "s4.png", "s5.png", "s6.png"],
+        "projectSite": "https://arkitektur.vercel.app/",
         "projectRepo": "https://github.com/jebsonubaldo/arkitektur",
         "projectTitle": "Arkitektur",
         "projectSlogan": "Architectural Design Website",
